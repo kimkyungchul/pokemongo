@@ -1,0 +1,64 @@
+
+> PokemonWeb@0.0.0 start /home/ubuntu/PokemonWeb
+> node ./bin/www
+
+connected as id 169
+
+> PokemonWeb@0.0.0 start /home/ubuntu/PokemonWeb
+> node ./bin/www
+
+Port 3000 is already in use
+npm ERR! weird error 1
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! not ok code 0
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET / [36m304 [0m14.907 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.946 ms - -[0m
+[0mGET /images/1.png [36m304 [0m0.612 ms - -[0m
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET / [36m304 [0m4.385 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.476 ms - -[0m
+[0mGET /images/1.png [36m304 [0m0.628 ms - -[0m
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET / [32m200 [0m3.741 ms - 1922[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.069 ms - 219[0m
+[0mGET /images/1.png [32m200 [0m1.011 ms - 1046[0m
+[0mGET /favicon.ico [32m200 [0m0.469 ms - 1150[0m
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET / [36m304 [0m3.495 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.301 ms - -[0m
+[0mGET /images/1.png [36m304 [0m0.336 ms - -[0m
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET / [36m304 [0m4.047 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.316 ms - -[0m
+[0mGET /images/1.png [36m304 [0m1.600 ms - -[0m
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET / [32m200 [0m3.241 ms - 1922[0m
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET / [32m200 [0m3.490 ms - 1922[0m
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET / [32m200 [0m3.224 ms - 1922[0m
+[0mGET /CFIDE/administrator/ [33m404 [0m2.598 ms - 955[0m
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET / [32m200 [0m3.498 ms - 1922[0m
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET / [32m200 [0m3.856 ms - 1922[0m
+rows : [{"lno":1,"plat":"38.212670","plng":"128.571530","pno":1}]
+[0mGET http://www.qyer.com/ [32m200 [0m4.323 ms - 1922[0m
+[0mGET /invoker/EJBInvokerServlet [33m404 [0m1.341 ms - 955[0m
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ubuntu/PokemonWeb/node_modules/mysql/lib/protocol/Protocol.js:109:13)
+    at Socket.<anonymous> (/home/ubuntu/PokemonWeb/node_modules/mysql/lib/Connection.js:115:28)
+    at Socket.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+npm ERR! weird error 8
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! not ok code 0

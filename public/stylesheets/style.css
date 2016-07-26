@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+html, body {
+  height: 100%; 
+  margin: 1%; 
+  padding: 0;
+  font: 14px 'Noto Sans KR', Lucida Grande, Helvetica, Arial, sans-serif;
+}
+
+#map { 
+	height: 70%; 
+	margin: 3% 0 3% 0;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h2{
+	text-align: center;
+}
+
+footer{
+	text-align: center;	
+}
+
+
+.twitter-typeahead{
+	display: -webkit-box !important;
+}
+.tt-input{
+	border-radius: 4px 0px 0px 4px !important;	
+}
+.tt-menu{
+	
+	width: 100%;
+	border: 1px solid #ccc;
+	background: white;
+	border-radius: 4px;
+	margin: 8px 0;
+	padding: 8px 0;
+}
+
+.tt-suggestion {
+  padding-left: 20px;
+}
